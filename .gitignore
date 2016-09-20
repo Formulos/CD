@@ -1,4 +1,4 @@
-# Windows image file caches
+﻿# Windows image file caches
 Thumbs.db
 ehthumbs.db
 
@@ -45,11 +45,14 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-*.xlsx
-*.xls
 *.txt
 Aula 2/.ipynb_checkpoints/Aula02 Atividade Variáveis Qualitativas com PNAD-checkpoint.ipynb
 *.zip
 Projeto 1/PES2014.csv
 Projeto 1/.ipynb_checkpoints/Projeto 1-checkpoint.ipynb
 aula10/.ipynb_checkpoints/Aula10 Atividade Modelos probabilísticos discretos-checkpoint.ipynb
+Aula 2/Dicionário de variáveis de pessoas - PNAD 2013.xls
+Aula 2/PNAD 2013 A.xlsx
+Mini projeto 1/WDI-word.xlsx
+aula12/Padaria.xlsx
+Projeto 1/Dicionario de variaveis de pessoas - PNAD 2014.xls

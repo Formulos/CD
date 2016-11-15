@@ -1,0 +1,652 @@
+{
+  "logs" : {
+    "-KVy_ueEXpYBLVE2CfCD" : {
+      "tempo" : 1478518876922,
+      "tipo" : "inicio",
+      "user_id" : 3534175994,
+      "versao" : "B"
+    },
+    "-KVy_xL_Ywt7XQ_JC91t" : {
+      "tempo" : 1478518887954,
+      "tipo" : "final",
+      "user_id" : 3534175994,
+      "versao" : "B"
+    },
+    "-KVya_XrhTczH3vjwOQI" : {
+      "tempo" : 1478519052470,
+      "tipo" : "inicio",
+      "user_id" : 842481613,
+      "versao" : "B"
+    },
+    "-KVyacCk3H9jOSC8PdeU" : {
+      "tempo" : 1478519063486,
+      "tipo" : "final",
+      "user_id" : 842481613,
+      "versao" : "B"
+    },
+    "-KVybBSHcbZOB0OWM67i" : {
+      "tempo" : 1478519211857,
+      "tipo" : "inicio",
+      "user_id" : 2986003787,
+      "versao" : "B"
+    },
+    "-KVybEN9rAOKy5Pt3yzd" : {
+      "tempo" : 1478519223816,
+      "tipo" : "inicio",
+      "user_id" : 514803398,
+      "versao" : "A"
+    },
+    "-KVybPVlSjWJ8Fiej5Ku" : {
+      "tempo" : 1478519270447,
+      "tipo" : "final",
+      "user_id" : 3724356519,
+      "versao" : "A"
+    },
+    "-KVybhFWovi6Qkd0vEhq" : {
+      "tempo" : 1478519346204,
+      "tipo" : "inicio",
+      "user_id" : 2754007705,
+      "versao" : "B"
+    },
+    "-KVybn8FqlXOD99Y45dO" : {
+      "tempo" : 1478519370436,
+      "tipo" : "final",
+      "user_id" : 2754007705,
+      "versao" : "B"
+    },
+    "-KVybq2OY_zELHb5MB49" : {
+      "tempo" : 1478519382229,
+      "tipo" : "inicio",
+      "user_id" : 3335800841,
+      "versao" : "A"
+    },
+    "-KVybu0W44cNbkwRMkO3" : {
+      "tempo" : 1478519399919,
+      "tipo" : "inicio",
+      "user_id" : 3724356519,
+      "versao" : "B"
+    },
+    "-KVyc0X_EfY_XziR6fCz" : {
+      "tempo" : 1478519429281,
+      "tipo" : "inicio",
+      "user_id" : 3335800841,
+      "versao" : "A"
+    },
+    "-KVyc2Nz1fopXhL-8Y5V" : {
+      "tempo" : 1478519436859,
+      "tipo" : "inicio",
+      "user_id" : 1798525136,
+      "versao" : "A"
+    },
+    "-KVycAX_VLvHIv_3DeIl" : {
+      "tempo" : 1478519470242,
+      "tipo" : "inicio",
+      "user_id" : 1031117037,
+      "versao" : "B"
+    },
+    "-KVycmWGJn1c6KjJWzWM" : {
+      "tempo" : 1478519629900,
+      "tipo" : "inicio",
+      "user_id" : 3335800841,
+      "versao" : "A"
+    },
+    "-KVydZIq6gfp-BU4FIyM" : {
+      "tempo" : 1478519833845,
+      "tipo" : "inicio",
+      "user_id" : 2986003787,
+      "versao" : "A"
+    },
+    "-KVyde2-EETa9st0Neyh" : {
+      "tempo" : 1478519843052,
+      "tipo" : "final",
+      "user_id" : 2986003787,
+      "versao" : "A"
+    },
+    "-KVyej5oCqch6GPXzC_k" : {
+      "tempo" : 1478520140196,
+      "tipo" : "inicio",
+      "user_id" : 190964928,
+      "versao" : "B"
+    },
+    "-KVyenxI6x82uUblYZrP" : {
+      "tempo" : 1478520160019,
+      "tipo" : "final",
+      "user_id" : 190964928,
+      "versao" : "B"
+    },
+    "-KVyeuKKJ3uBgWVNjwD7" : {
+      "tempo" : 1478520186195,
+      "tipo" : "inicio",
+      "user_id" : 3796913893,
+      "versao" : "B"
+    },
+    "-KVyevfVDn9SgPYH8KMC" : {
+      "tempo" : 1478520198416,
+      "tipo" : "final",
+      "user_id" : 3796913893,
+      "versao" : "B"
+    },
+    "-KVyf-aMcFENakpHcDH_" : {
+      "tempo" : 1478520211862,
+      "tipo" : "inicio",
+      "user_id" : 3796913893,
+      "versao" : "B"
+    },
+    "-KVyfsxcVHkgcCs1Zl0M" : {
+      "tempo" : 1478520664852,
+      "tipo" : "final",
+      "user_id" : 1561760900,
+      "versao" : "A"
+    },
+    "-KVyg-9N6sZbH7h1760i" : {
+      "tempo" : 1478520694333,
+      "tipo" : "final",
+      "user_id" : 1561760900,
+      "versao" : "A"
+    },
+    "-KVygSAMtrndFfni_SJZ" : {
+      "tempo" : 1478520591061,
+      "tipo" : "inicio",
+      "user_id" : 2986003787,
+      "versao" : "A"
+    },
+    "-KVygW_3TzDMbawxrpwN" : {
+      "tempo" : 1478520594805,
+      "tipo" : "final",
+      "user_id" : 2986003787,
+      "versao" : "A"
+    },
+    "-KVyggIVjn2Dpe3TP0pU" : {
+      "tempo" : 1478520653022,
+      "tipo" : "inicio",
+      "user_id" : 1561760900,
+      "versao" : "A"
+    },
+    "-KVygpLoorKHRNEX2yYw" : {
+      "tempo" : 1478520690100,
+      "tipo" : "inicio",
+      "user_id" : 1561760900,
+      "versao" : "A"
+    },
+    "-KVygy-ZcoR-HeNPRR6a" : {
+      "tempo" : 1478520725538,
+      "tipo" : "inicio",
+      "user_id" : 3899117471,
+      "versao" : "B"
+    },
+    "-KVyhw4-9Fa3Jpu7a-sj" : {
+      "tempo" : 1478520979775,
+      "tipo" : "inicio",
+      "user_id" : 916975793,
+      "versao" : "B"
+    },
+    "-KVyjZDPd7uKijef3bln" : {
+      "tempo" : 1478521406348,
+      "tipo" : "inicio",
+      "user_id" : 2125116560,
+      "versao" : "B"
+    },
+    "-KVyk5NMMxMv3iBMVG3l" : {
+      "tempo" : 1478521546261,
+      "tipo" : "inicio",
+      "user_id" : 1817435304,
+      "versao" : "A"
+    },
+    "-KVykE62LaGLfAf_2uRX" : {
+      "tempo" : 1478521582014,
+      "tipo" : "inicio",
+      "user_id" : 1484064589,
+      "versao" : "B"
+    },
+    "-KVylz0pZVNposm_oQSG" : {
+      "tempo" : 1478522040436,
+      "tipo" : "inicio",
+      "user_id" : 3224266341,
+      "versao" : "A"
+    },
+    "-KVyr5o-RTgIRlLOG1hF" : {
+      "tempo" : 1478523383036,
+      "tipo" : "inicio",
+      "user_id" : 1600566857,
+      "versao" : "A"
+    },
+    "-KVyrChM_WsUURGRuHk6" : {
+      "tempo" : 1478523411283,
+      "tipo" : "inicio",
+      "user_id" : 1600566857,
+      "versao" : "A"
+    },
+    "-KVyrKdNtD8-acIxwpyo" : {
+      "tempo" : 1478523443793,
+      "tipo" : "inicio",
+      "user_id" : 1600566857,
+      "versao" : "A"
+    },
+    "-KVytNX1PlJ1VORjjmKA" : {
+      "tempo" : 1478523979905,
+      "tipo" : "inicio",
+      "user_id" : 1585826857,
+      "versao" : "B"
+    },
+    "-KVytRWDB9g-cwfDvv_1" : {
+      "tempo" : 1478523996237,
+      "tipo" : "inicio",
+      "user_id" : 1585826857,
+      "versao" : "A"
+    },
+    "-KVytWd0d25jaClfzkY-" : {
+      "tempo" : 1478524017198,
+      "tipo" : "final",
+      "user_id" : 1585826857,
+      "versao" : "A"
+    },
+    "-KVyuNF-OE16i9cw7pU4" : {
+      "tempo" : 1478524240888,
+      "tipo" : "inicio",
+      "user_id" : 3386008379,
+      "versao" : "B"
+    },
+    "-KVz0gCtpc8j2ifaE9B-" : {
+      "tempo" : 1478526157686,
+      "tipo" : "inicio",
+      "user_id" : 2250801952,
+      "versao" : "B"
+    },
+    "-KVz2_pJdh0IgDqA_Bvl" : {
+      "tempo" : 1478526655826,
+      "tipo" : "inicio",
+      "user_id" : 2986003787,
+      "versao" : "B"
+    },
+    "-KVz2ezZnW7ITPxfIgea" : {
+      "tempo" : 1478526661977,
+      "tipo" : "final",
+      "user_id" : 2986003787,
+      "versao" : "B"
+    },
+    "-KVz2o0phy8D3HWkabQV" : {
+      "tempo" : 1478526713971,
+      "tipo" : "inicio",
+      "user_id" : 3237228231,
+      "versao" : "A"
+    },
+    "-KVz2qZeLvJSMLke10QB" : {
+      "tempo" : 1478526724389,
+      "tipo" : "inicio",
+      "user_id" : 1528978230,
+      "versao" : "B"
+    },
+    "-KVz2qqSwjg_1SocpGuI" : {
+      "tempo" : 1478526725596,
+      "tipo" : "final",
+      "user_id" : 3237228231,
+      "versao" : "A"
+    },
+    "-KVz2t0s7yCawVD4aB4c" : {
+      "tempo" : 1478526734540,
+      "tipo" : "final",
+      "user_id" : 1528978230,
+      "versao" : "B"
+    },
+    "-KVzBZLAqF_OoUnBhr5H" : {
+      "tempo" : 1478529009033,
+      "tipo" : "inicio",
+      "user_id" : 1257728698,
+      "versao" : "B"
+    },
+    "-KVzBlXhayghn49F7mta" : {
+      "tempo" : 1478529063083,
+      "tipo" : "inicio",
+      "user_id" : 609063334,
+      "versao" : "A"
+    },
+    "-KVzC0ykGP-M_3zzui12" : {
+      "tempo" : 1478529130413,
+      "tipo" : "inicio",
+      "user_id" : 3686520904,
+      "versao" : "B"
+    },
+    "-KVzC3XhxxXPfZIrERvW" : {
+      "tempo" : 1478529140905,
+      "tipo" : "inicio",
+      "user_id" : 1208266147,
+      "versao" : "A"
+    },
+    "-KVzC4tO-0qYBhBCb3an" : {
+      "tempo" : 1478529146484,
+      "tipo" : "inicio",
+      "user_id" : 3686520904,
+      "versao" : "B"
+    },
+    "-KVzCBcxH4M-yaXjMudY" : {
+      "tempo" : 1478529174126,
+      "tipo" : "inicio",
+      "user_id" : 1208266147,
+      "versao" : "A"
+    },
+    "-KVzEbt3ukSHO1Lkt-iu" : {
+      "tempo" : 1478529809985,
+      "tipo" : "inicio",
+      "user_id" : 2506455801,
+      "versao" : "B"
+    },
+    "-KVzEeAVYFCP_CoTodg-" : {
+      "tempo" : 1478529819356,
+      "tipo" : "inicio",
+      "user_id" : 2506455801,
+      "versao" : "B"
+    },
+    "-KVza1aa05duYSyYlffl" : {
+      "tempo" : 1478536455352,
+      "tipo" : "final",
+      "user_id" : 4038184310,
+      "versao" : "A"
+    },
+    "-KVzbNsCzXeyyg5W1JZf" : {
+      "tempo" : 1478536039947,
+      "tipo" : "inicio",
+      "user_id" : 1213412462,
+      "versao" : "B"
+    },
+    "-KVzbRzPM6WGyvHcnEFp" : {
+      "tempo" : 1478536052209,
+      "tipo" : "final",
+      "user_id" : 1213412462,
+      "versao" : "B"
+    },
+    "-KVzcuWmeT4eBPYU_DMd" : {
+      "tempo" : 1478536439920,
+      "tipo" : "inicio",
+      "user_id" : 4038184310,
+      "versao" : "A"
+    },
+    "-KVzjq5UtAfgLP3xDM40" : {
+      "tempo" : 1478538273229,
+      "tipo" : "final",
+      "user_id" : 3029084152,
+      "versao" : "A"
+    },
+    "-KVzjs7l-dm_owNiQXd1" : {
+      "tempo" : 1478538265121,
+      "tipo" : "inicio",
+      "user_id" : 3029084152,
+      "versao" : "A"
+    },
+    "-KVzyKffHhElpBa27Bm9" : {
+      "tempo" : 1478542056170,
+      "tipo" : "inicio",
+      "user_id" : 3689698528,
+      "versao" : "B"
+    },
+    "-KVzyUQxBYuNKNSc-Qmn" : {
+      "tempo" : 1478542096123,
+      "tipo" : "inicio",
+      "user_id" : 2986003787,
+      "versao" : "B"
+    },
+    "-KVzyZO3D2VRi-OE5iCp" : {
+      "tempo" : 1478542116419,
+      "tipo" : "inicio",
+      "user_id" : 2986003787,
+      "versao" : "A"
+    },
+    "-KW-2KnkpdbvaneDc_uY" : {
+      "tempo" : 1478543367395,
+      "tipo" : "inicio",
+      "user_id" : 1212005310,
+      "versao" : "A"
+    },
+    "-KW-2MWQirGxKCE038M7" : {
+      "tempo" : 1478543374352,
+      "tipo" : "final",
+      "user_id" : 1212005310,
+      "versao" : "A"
+    },
+    "-KW-4VJiKHIgy779qqMe" : {
+      "tempo" : 1478543934764,
+      "tipo" : "inicio",
+      "user_id" : 2986003787,
+      "versao" : "A"
+    },
+    "-KW-57fXgaRKYzmRrbz9" : {
+      "tempo" : 1478544100064,
+      "tipo" : "inicio",
+      "user_id" : 72740114,
+      "versao" : "B"
+    },
+    "-KW-5Hxgy7fwuJofhZeI" : {
+      "tempo" : 1478544127726,
+      "tipo" : "final",
+      "user_id" : 2986003787,
+      "versao" : "A"
+    },
+    "-KW-6I1bY8_JC1xLJ3H_" : {
+      "tempo" : 1478544404644,
+      "tipo" : "inicio",
+      "user_id" : 1172582373,
+      "versao" : "A"
+    },
+    "-KW-6TnBdWUW2xEO79Xs" : {
+      "tempo" : 1478544452810,
+      "tipo" : "inicio",
+      "user_id" : 626490874,
+      "versao" : "A"
+    },
+    "-KW-7Ol1-JRK4CmpifJP" : {
+      "tempo" : 1478544900181,
+      "tipo" : "final",
+      "user_id" : 2696156667,
+      "versao" : "B"
+    },
+    "-KW-7ubideY2iv0BeFKF" : {
+      "tempo" : 1478544828909,
+      "tipo" : "inicio",
+      "user_id" : 2696156667,
+      "versao" : "B"
+    },
+    "-KW-82MfnCPxYgWzF0PR" : {
+      "tempo" : 1478544864747,
+      "tipo" : "inicio",
+      "user_id" : 2696156667,
+      "versao" : "B"
+    },
+    "-KW-8Xiu_27rtlE70c0K" : {
+      "tempo" : 1478544993209,
+      "tipo" : "inicio",
+      "user_id" : 2830537766,
+      "versao" : "A"
+    },
+    "-KW-8dptScedE9IJmnYX" : {
+      "tempo" : 1478545022328,
+      "tipo" : "inicio",
+      "user_id" : 2830537766,
+      "versao" : "A"
+    },
+    "-KW-8fwGZaNjhf1spOR-" : {
+      "tempo" : 1478545030927,
+      "tipo" : "inicio",
+      "user_id" : 2830537766,
+      "versao" : "A"
+    },
+    "-KW-9cOTHbnCHFoPix3X" : {
+      "tempo" : 1478545278556,
+      "tipo" : "inicio",
+      "user_id" : 3563937844,
+      "versao" : "A"
+    },
+    "-KW-A_Te-QJGfVED4Nyl" : {
+      "tempo" : 1478545528743,
+      "tipo" : "inicio",
+      "user_id" : 116148368,
+      "versao" : "A"
+    },
+    "-KW-Ach3Pb_ROwIB5HLK" : {
+      "tempo" : 1478545542040,
+      "tipo" : "final",
+      "user_id" : 116148368,
+      "versao" : "A"
+    },
+    "-KW-AdJvsao5noSPaoyO" : {
+      "tempo" : 1478545544505,
+      "tipo" : "inicio",
+      "user_id" : 1154051230,
+      "versao" : "A"
+    },
+    "-KW-CByrnbrMO040tHcm" : {
+      "tempo" : 1478545952692,
+      "tipo" : "inicio",
+      "user_id" : 3282163375,
+      "versao" : "A"
+    },
+    "-KW-CW1SzUcDQxjIr4RR" : {
+      "tempo" : 1478546034843,
+      "tipo" : "inicio",
+      "user_id" : 2609965679,
+      "versao" : "B"
+    },
+    "-KW-CdKWo4Om_SMimFd9" : {
+      "tempo" : 1478546068831,
+      "tipo" : "inicio",
+      "user_id" : 2609965679,
+      "versao" : "B"
+    },
+    "-KW-D7_fkxHuYXkF3KKS" : {
+      "tempo" : 1478546196842,
+      "tipo" : "inicio",
+      "user_id" : 2609965679,
+      "versao" : "B"
+    },
+    "-KW-EVK5Gu5jgB0NppAr" : {
+      "tempo" : 1478546556228,
+      "tipo" : "inicio",
+      "user_id" : 2609965679,
+      "versao" : "B"
+    },
+    "-KW-Egl8KCDv-FlijPT9" : {
+      "tempo" : 1478546607175,
+      "tipo" : "inicio",
+      "user_id" : 2609965679,
+      "versao" : "B"
+    },
+    "-KW-Es6YUTyzK5SrOftU" : {
+      "tempo" : 1478546653665,
+      "tipo" : "inicio",
+      "user_id" : 2609965679,
+      "versao" : "B"
+    },
+    "-KW-Eu8aWx1zfGVSo6Qh" : {
+      "tempo" : 1478546662783,
+      "tipo" : "final",
+      "user_id" : 2609965679,
+      "versao" : "B"
+    },
+    "-KW-JH9TxP1vcWtsySO3" : {
+      "tempo" : 1478547808925,
+      "tipo" : "inicio",
+      "user_id" : 984025379,
+      "versao" : "A"
+    },
+    "-KW-JJ-IvpLPoPVLMYtZ" : {
+      "tempo" : 1478547816434,
+      "tipo" : "final",
+      "user_id" : 984025379,
+      "versao" : "A"
+    },
+    "-KW-Mvv7IAWZTjQCSkyX" : {
+      "tempo" : 1478548766406,
+      "tipo" : "inicio",
+      "user_id" : 1179378292,
+      "versao" : "A"
+    },
+    "-KW-k3KLDiRQ3Je82IKH" : {
+      "tempo" : 1478555092306,
+      "tipo" : "inicio",
+      "user_id" : 2796267476,
+      "versao" : "B"
+    },
+    "-KW-kFhhaAfwzLFKR7_g" : {
+      "tempo" : 1478555143019,
+      "tipo" : "inicio",
+      "user_id" : 2796267476,
+      "versao" : "B"
+    },
+    "-KW-meb-Md2XfDdxu6XU" : {
+      "tempo" : 1478555773374,
+      "tipo" : "inicio",
+      "user_id" : 4232409040,
+      "versao" : "A"
+    },
+    "-KW04uLBXAG8jErHEKqg" : {
+      "tempo" : 1478560818571,
+      "tipo" : "inicio",
+      "user_id" : 4152027044,
+      "versao" : "B"
+    },
+    "-KW0511yAt7ah_pl_6nc" : {
+      "tempo" : 1478560850108,
+      "tipo" : "inicio",
+      "user_id" : 4152027044,
+      "versao" : "B"
+    },
+    "-KW053DLg0q_VraKzxTp" : {
+      "tempo" : 1478560859029,
+      "tipo" : "inicio",
+      "user_id" : 4152027044,
+      "versao" : "B"
+    },
+    "-KW054kS0cH0ca6aFHCs" : {
+      "tempo" : 1478560865309,
+      "tipo" : "inicio",
+      "user_id" : 4152027044,
+      "versao" : "B"
+    },
+    "-KW05p-JsmhbeyUXlUeA" : {
+      "tempo" : 1478561058834,
+      "tipo" : "inicio",
+      "user_id" : 4110356409,
+      "versao" : "B"
+    },
+    "-KW0MmyD5rgQebbRzmpQ" : {
+      "tempo" : 1478565506954,
+      "tipo" : "inicio",
+      "user_id" : 3548116922,
+      "versao" : "A"
+    },
+    "-KW2Y1eycusBwK8gWqMQ" : {
+      "tempo" : 1478602009276,
+      "tipo" : "inicio",
+      "user_id" : 2392299506,
+      "versao" : "B"
+    },
+    "-KW30HmNfRPvFdtp2i_0" : {
+      "tempo" : 1478609939604,
+      "tipo" : "inicio",
+      "user_id" : 1857098293,
+      "versao" : "A"
+    },
+    "-KW30Us_Q3HBvHfLhbJf" : {
+      "tempo" : 1478609993249,
+      "tipo" : "inicio",
+      "user_id" : 1857098293,
+      "versao" : "A"
+    },
+    "-KW30Y6fWbijtbWk3b0G" : {
+      "tempo" : 1478610006503,
+      "tipo" : "inicio",
+      "user_id" : 1857098293,
+      "versao" : "A"
+    },
+    "-KW30_L-Cbe6ygUsKVN1" : {
+      "tempo" : 1478610015406,
+      "tipo" : "final",
+      "user_id" : 1857098293,
+      "versao" : "A"
+    },
+    "-KW32uMBel5ZbF0n6rfX" : {
+      "tempo" : 1478610627590,
+      "tipo" : "inicio",
+      "user_id" : 1631198768,
+      "versao" : "B"
+    }
+  }
+}
